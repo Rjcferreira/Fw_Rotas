@@ -31,7 +31,7 @@ sistema-rotas/
 ⚙️ Instalação
 
 Baixe ou clone este repositório:
-git clone https://github.com/seu-usuario/sistema-rotas
+git clone [https://github.com/seu-usuario/sistema-rotas](https://github.com/Rjcferreira/Fw_Rotas/tree/main)
 
 Coloque a pasta na sua pasta de recursos do FiveM:
 resources/[ox]/sistema-rotas
